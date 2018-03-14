@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Score Keeper - Project 2</string>
+
+    <!-- Name of Team A [CHAR LIMIT=20] -->
+    <string name="team_a">Team A</string>
+
+    <!-- Display score for Team A [CHAR LIMIT=20] -->
+    <string name="score_team_a">0</string>
+
+    <!-- Increase score for Team A [CHAR LIMIT=20] -->
+    <string name="goal_team_a">Goal!</string>
+
+    <!-- Display yellow cards for Team A [CHAR LIMIT=20] -->
+    <string name="yellow_team_a">0</string>
+
+    <!-- Display red cards for Team A [CHAR LIMIT=20] -->
+    <string name="red_team_a">0</string>
+
+    <!-- Increase penalty for Team A [CHAR LIMIT=20] -->
+    <string name="penalty_a">Penalty</string>
+
+    <!-- Display penalty for Team A [CHAR LIMIT=20] -->
+    <string name="penalty_team_a">0</string>
+
+    <!-- Name of Team B [CHAR LIMIT=20] -->
+    <string name="team_b">Team A</string>
+
+    <!-- Display score for Team B [CHAR LIMIT=20] -->
+    <string name="score_team_b">0</string>
+
+    <!-- Increase score for Team B [CHAR LIMIT=20] -->
+    <string name="goal_team_b">Goal!</string>
+
+    <!-- Display yellow cards for Team B [CHAR LIMIT=20] -->
+    <string name="yellow_team_b">0</string>
+
+    <!-- Display red cards for Team B [CHAR LIMIT=20] -->
+    <string name="red_team_b">0</string>
+
+    <!-- Increase penalty for Team B [CHAR LIMIT=20] -->
+    <string name="penalty_b">Penalty</string>
+
+    <!-- Display penalty for Team B [CHAR LIMIT=20] -->
+    <string name="penalty_team_b">0</string>
+
+    <!-- Resets all for Team A and Team B [CHAR LIMIT=20] -->
+    <string name="reset">Reset</string>
+
+</resources>
